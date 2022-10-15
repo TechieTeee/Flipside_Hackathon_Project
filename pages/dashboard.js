@@ -106,7 +106,7 @@ export default function Dashboard() {
                                 <Link display={["none", "none", "flex", "flex", "flex"]}>
                                     <Icon as={FiBox} fontSize="2xl" /></Link>
                                 <Link _hover={{ textDecor: 'none' }} display={["flex", "flex", "none", "flex", "flex"]}>
-                                    <Text><a href="https://axelarscan.io/">Axelar Services</a></Text>
+                                    <Text><a href="https://axelarscan.io/">Axelar Services ➕</a></Text>
 
                                 </Link>
                             </Flex>
@@ -203,14 +203,14 @@ export default function Dashboard() {
                                         <Tr>
                                             <Td>
                                                 <Flex align="center">
-                                                    <Avatar size="sm" mr={2} src="amazon.jpeg" />
+                                                    <Avatar size="sm" mr={2} src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" />
                                                     <Flex flexDir="column">
-                                                        <Heading size="sm" letterSpacing="tight">Amazon</Heading>
+                                                        <Heading size="sm" letterSpacing="tight">Open Sea</Heading>
                                                         <Text fontSize="sm" color="gray">Oct 12, 2022 at 9:40pm</Text>
                                                     </Flex>
                                                 </Flex>
                                             </Td>
-                                            <Td>Electronic Devices</Td>
+                                            <Td>NFT Assets</Td>
                                             <Td isNumeric>+$2</Td>
                                             <Td isNumeric><Text fontWeight="bold" display="inline-table">-$242</Text>.00</Td>
                                         </Tr>
@@ -219,26 +219,26 @@ export default function Dashboard() {
                                                 <Flex align="center">
                                                     <Avatar size="sm" mr={2} src="" />
                                                     <Flex flexDir="column">
-                                                        <Heading size="sm" letterSpacing="tight">Chipotle</Heading>
+                                                        <Heading size="sm" letterSpacing="tight">Tesla Ride Share</Heading>
                                                         <Text fontSize="sm" color="gray">Oct 10, 2022 at 2:10pm</Text>
                                                     </Flex>
                                                 </Flex>
                                             </Td>
-                                            <Td>Cafe and restaurant</Td>
+                                            <Td>Transportation</Td>
                                             <Td isNumeric>+$23</Td>
                                             <Td isNumeric><Text fontWeight="bold" display="inline-table">-$32</Text>.00</Td>
                                         </Tr>
                                         <Tr>
                                             <Td>
                                                 <Flex align="center">
-                                                    <Avatar size="sm" mr={2} src="" />
+                                                    <Avatar size="sm" mr={2} src="https://3.bp.blogspot.com/-xJSAmTCfGKA/VibA7NVz8NI/AAAAAAAAVS4/DEkpCObh338/s1600/Tesla_TSLA.png" />
                                                     <Flex flexDir="column">
-                                                        <Heading size="sm" letterSpacing="tight">YouTube</Heading>
+                                                        <Heading size="sm" letterSpacing="tight">Crypto Nomad</Heading>
                                                         <Text fontSize="sm" color="gray">Oct 7, 2022 at 9:03am</Text>
                                                     </Flex>
                                                 </Flex>
                                             </Td>
-                                            <Td>Social Media</Td>
+                                            <Td>Housing</Td>
                                             <Td isNumeric>+$4</Td>
                                             <Td isNumeric><Text fontWeight="bold" display="inline-table">-$112</Text>.00</Td>
                                         </Tr>
