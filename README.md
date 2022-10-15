@@ -1,4 +1,4 @@
-# Dashboard UI
+# Wallet Wire
 
 Built using:
 
