@@ -148,7 +148,7 @@ export default function Dashboard() {
                         <Table variant="unstyled" mt={4}>
                             <Thead>
                                 <Tr color="gray">
-                                    <Th>Name of transaction</Th>
+                                    <Th>Transactions</Th>
                                     <Th>Category</Th>
                                     <Th isNumeric>Cashback</Th>
                                     <Th isNumeric>Amount</Th>
