@@ -309,7 +309,7 @@ export default function Dashboard() {
                             <Flex justify="space-between" w="100%" align="flex-start">
                                 <Flex flexDir="column">
                                     <Text color="gray.400">Current Balance</Text>
-                                    <Text fontWeight="bold" fontSize="xl">$5,750.20</Text>
+                                    <Text fontWeight="bold" fontSize="xl">$972.41</Text>
                                 </Flex>
                                 <Flex align="center">
                                     <Icon mr={2} as={FiCreditCard} />
