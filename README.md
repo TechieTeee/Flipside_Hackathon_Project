@@ -8,7 +8,9 @@ Data Insights for Crypto Wallet Trends and Send Crypto Funds Cross Chain with Ax
 * Built w/ 
 * Chakra UI
 * Next JS
-* Axelar API
+* Solidity
+* Axelar APIs and Development Kit
+* Vercel (for CI/CD)
 
 
 
