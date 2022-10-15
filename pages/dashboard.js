@@ -106,7 +106,8 @@ export default function Dashboard() {
                                 <Link display={["none", "none", "flex", "flex", "flex"]}>
                                     <Icon as={FiBox} fontSize="2xl" /></Link>
                                 <Link _hover={{ textDecor: 'none' }} display={["flex", "flex", "none", "flex", "flex"]}>
-                                    <Text>Axelar Services </Text>
+                                    <Text><a href="https://axelarscan.io/">Axelar Services</a></Text>
+
                                 </Link>
                             </Flex>
                         </Flex>
@@ -134,7 +135,7 @@ export default function Dashboard() {
                     Welcome back, <Flex display="inline-flex" fontWeight="bold">Joshua</Flex>
                 </Heading>
                 <Text color="gray" fontSize="sm">My Balance</Text>
-                <Text fontWeight="bold" fontSize="2xl">$1,528.17</Text>
+                <Text fontWeight="bold" fontSize="2xl">$2475.09</Text>
                 <MyChart />
                 <Flex justifyContent="space-between" mt={8}>
                     <Flex align="flex-end">
@@ -158,7 +159,7 @@ export default function Dashboard() {
                                 <Tr>
                                     <Td>
                                         <Flex align="center">
-                                            <Avatar size="sm" mr={2} src="" />
+                                            <Avatar size="sm" mr={2} src="https://cdn.freebiesupply.com/logos/large/2x/bitpay-logo-png-transparent.png" />
                                             <Flex flexDir="column">
                                                 <Heading size="sm" letterSpacing="tight">BitPay</Heading>
                                                 <Text fontSize="sm" color="gray">Oct 24, 2022 at 1:40pm</Text>
@@ -172,7 +173,7 @@ export default function Dashboard() {
                                 <Tr>
                                     <Td>
                                         <Flex align="center">
-                                            <Avatar size="sm" mr={2} src="" />
+                                            <Avatar size="sm" mr={2} src="https://cdn.freebiesupply.com/logos/large/2x/chipotle-mexican-grill-logo-png-transparent.png" />
                                             <Flex flexDir="column">
                                                 <Heading size="sm" letterSpacing="tight">Chipotle</Heading>
                                                 <Text fontSize="sm" color="gray">Oct 22, 2022 at 2:43pm</Text>
@@ -186,7 +187,7 @@ export default function Dashboard() {
                                 <Tr>
                                     <Td>
                                         <Flex align="center">
-                                            <Avatar size="sm" mr={2} src="" />
+                                            <Avatar size="sm" mr={2} src="https://seeklogo.com/images/M/meta-icon-new-facebook-2021-logo-83520C311D-seeklogo.com.png" />
                                             <Flex flexDir="column">
                                                 <Heading size="sm" letterSpacing="tight">Meta Media</Heading>
                                                 <Text fontSize="sm" color="gray">Oct 13, 2022 at 11:23am</Text>
@@ -309,7 +310,7 @@ export default function Dashboard() {
                             <Flex justify="space-between" w="100%" align="flex-start">
                                 <Flex flexDir="column">
                                     <Text color="gray.400">Current Balance</Text>
-                                    <Text fontWeight="bold" fontSize="xl">$1,528.17</Text>
+                                    <Text fontWeight="bold" fontSize="xl">$765.87</Text>
                                 </Flex>
                                 <Flex align="center">
                                     <Icon mr={2} as={FiCreditCard} />
@@ -345,7 +346,7 @@ export default function Dashboard() {
                             <Flex justify="space-between" w="100%" align="flex-start">
                                 <Flex flexDir="column">
                                     <Text color="gray.400">Current Balance</Text>
-                                    <Text fontWeight="bold" fontSize="xl">$1,528.17</Text>
+                                    <Text fontWeight="bold" fontSize="xl">$181.05</Text>
                                 </Flex>
                                 <Flex align="center">
                                     <Icon mr={2} as={FiCreditCard} />
