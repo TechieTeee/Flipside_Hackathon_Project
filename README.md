@@ -1,7 +1,8 @@
 ![Wallet_Wire_Logos_Cover](https://user-images.githubusercontent.com/100870737/195976418-6315da2c-c06d-499f-bd8a-f76aa5741e46.png)
 * ## Wallet Wire
 
-<code><div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/b5692b19ad55495690c36c1f2a5c6493" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div></code> 
+![Wallet_Wire_Flipside_x_Axelar_Build-a-Thon_Entry_AdobeExpress](https://user-images.githubusercontent.com/100870737/195983142-4bb4e0d0-98ba-4f40-b83a-83f2dae79ffc.gif)
+
 
 * [Demo Link](https://walletwire.vercel.app/dashboard)
 
