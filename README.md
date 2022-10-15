@@ -1,11 +1,11 @@
 ![Wallet_Wire_Logos_Cover](https://user-images.githubusercontent.com/100870737/195976418-6315da2c-c06d-499f-bd8a-f76aa5741e46.png)
-## Wallet Wire GIF
+* ## Wallet Wire GIF
 
 <img src="https://user-images.githubusercontent.com/100870737/195983592-c3547521-425a-4cf4-be54-8fe313df4672.gif" alt="Wallet Wire Demo" title="Wallet Wire Showcase Gif" width="300"/>
 
-* [Full Video Wallet Wire Walkthrough](https://www.loom.com/share/b5692b19ad55495690c36c1f2a5c6493)
+* ##[Full Video Wallet Wire Walkthrough](https://www.loom.com/share/b5692b19ad55495690c36c1f2a5c6493)
 
-* [Demo Link](https://walletwire.vercel.app/dashboard)
+* ##[Demo Link](https://walletwire.vercel.app/dashboard)
 
 
 
