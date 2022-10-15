@@ -1,9 +1,11 @@
 ![Wallet_Wire_Logos_Cover](https://user-images.githubusercontent.com/100870737/195976418-6315da2c-c06d-499f-bd8a-f76aa5741e46.png)
 * ## Wallet Wire
 
-<img src="https://user-images.githubusercontent.com/100870737/195983142-4bb4e0d0-98ba-4f40-b83a-83f2dae79ffc.gif" alt="Wallet Wire Demo" title="Wallet Wire Showcase Gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/100870737/195983592-c3547521-425a-4cf4-be54-8fe313df4672.gif" alt="Wallet Wire Demo" title="Wallet Wire Showcase Gif" width="300"/>
 
 * [Demo Link](https://walletwire.vercel.app/dashboard)
+
+
 
 Data Insights for Crypto Wallet Trends and Send Crypto Funds Cross Chain with Axelar
 
