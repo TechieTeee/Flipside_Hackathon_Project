@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d981e93c-e7ae-4567-8ad1-66ea9701d970" name="Changes" comment="Customer Profiles" />
+    <list default="true" id="d981e93c-e7ae-4567-8ad1-66ea9701d970" name="Changes" comment="Customer Profiles">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/dashboard.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +53,7 @@
       <workItem from="1665814783778" duration="3308000" />
       <workItem from="1665818222578" duration="289000" />
       <workItem from="1665818571350" duration="7746000" />
+      <workItem from="1665826748223" duration="842000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Landing">
       <created>1665817949349</created>
@@ -135,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665826455936</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Customer Profiles">
+      <created>1665826877056</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665826877056</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
