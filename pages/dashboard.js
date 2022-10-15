@@ -113,7 +113,7 @@ export default function Dashboard() {
                         </Flex>
                     </Flex>
                     <Flex flexDir="column" alignItems="center" mb={10} mt={5}>
-                        <Avatar my={2} src="avatar_1.jpg" />
+                        <Avatar my={2} src="1.jpg" />
                         <Text textAlign="center">Joshua Rollins</Text>
                     </Flex>
                 </Flex>
@@ -424,11 +424,9 @@ export default function Dashboard() {
                 <Heading letterSpacing="tight" size="md" my={4}>Send Axelar to</Heading>
                 <Flex>
                     <AvatarGroup size="md" max={3}>
-                        <Avatar src="avatar_2.jpg" />
-                        <Avatar src="avatar_3.jpg" />
-                        <Avatar src="avatar_4.jpg" />
-                        <Avatar src="avatar_4.jpg" />
-                        <Avatar src="avatar_4.jpg" />
+                        <Avatar src="2.jpg" />
+                        <Avatar src="3.jpg" />
+                        <Avatar src="4.jpg" />
                     </AvatarGroup>
                     <Avatar icon={<FiPlus />} ml={2} color="#fff" bgColor="gray.300" />
                 </Flex>
