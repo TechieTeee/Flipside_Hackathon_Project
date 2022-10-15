@@ -99,7 +99,7 @@ export default function Dashboard() {
                                     <Icon as={FiDollarSign} fontSize="2xl" />
                                 </Link>
                                 <Link _hover={{ textDecor: 'none' }} display={["flex", "flex", "none", "flex", "flex"]}>
-                                    <Text>Wallet</Text>
+                                    <Text>Wallets/Text>
                                 </Link>
                             </Flex>
                             <Flex className="sidebar-items" mr={[2, 6, 0, 0, 0]}>
@@ -239,8 +239,8 @@ export default function Dashboard() {
                                                 </Flex>
                                             </Td>
                                             <Td>Housing</Td>
-                                            <Td isNumeric>+$821</Td>
-                                            <Td isNumeric><Text fontWeight="bold" display="inline-table">-$112</Text>.00</Td>
+                                            <Td isNumeric>+$115</Td>
+                                            <Td isNumeric><Text fontWeight="bold" display="inline-table">-$989</Text>.00</Td>
                                         </Tr>
                                     </>
                                 }
