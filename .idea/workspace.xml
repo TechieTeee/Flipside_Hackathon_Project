@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d981e93c-e7ae-4567-8ad1-66ea9701d970" name="Changes" comment="Logo Icons Transaction Categories">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d981e93c-e7ae-4567-8ad1-66ea9701d970" name="Changes" comment="Transaction Categories -&gt; Web 3 Companies">
       <change beforePath="$PROJECT_DIR$/pages/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/dashboard.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       <updated>1665814779421</updated>
       <workItem from="1665814783778" duration="3308000" />
       <workItem from="1665818222578" duration="289000" />
-      <workItem from="1665818571350" duration="5827000" />
+      <workItem from="1665818571350" duration="6164000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Landing">
       <created>1665817949349</created>
@@ -110,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665823860349</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Transaction Categories -&gt; Web 3 Companies">
+      <created>1665824719668</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665824719668</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +139,7 @@
     <MESSAGE value="Troubleshooting Route Issue" />
     <MESSAGE value="Fixed Wallets" />
     <MESSAGE value="Logo Icons Transaction Categories" />
-    <option name="LAST_COMMIT_MESSAGE" value="Logo Icons Transaction Categories" />
+    <MESSAGE value="Transaction Categories -&gt; Web 3 Companies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Transaction Categories -&gt; Web 3 Companies" />
   </component>
 </project>

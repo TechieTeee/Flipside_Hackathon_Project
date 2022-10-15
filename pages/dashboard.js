@@ -217,7 +217,7 @@ export default function Dashboard() {
                                         <Tr>
                                             <Td>
                                                 <Flex align="center">
-                                                    <Avatar size="sm" mr={2} src="" />
+                                                    <Avatar size="sm" mr={2} src="https://3.bp.blogspot.com/-xJSAmTCfGKA/VibA7NVz8NI/AAAAAAAAVS4/DEkpCObh338/s1600/Tesla_TSLA.png" />
                                                     <Flex flexDir="column">
                                                         <Heading size="sm" letterSpacing="tight">Tesla Ride Share</Heading>
                                                         <Text fontSize="sm" color="gray">Oct 10, 2022 at 2:10pm</Text>
@@ -231,15 +231,15 @@ export default function Dashboard() {
                                         <Tr>
                                             <Td>
                                                 <Flex align="center">
-                                                    <Avatar size="sm" mr={2} src="https://3.bp.blogspot.com/-xJSAmTCfGKA/VibA7NVz8NI/AAAAAAAAVS4/DEkpCObh338/s1600/Tesla_TSLA.png" />
+                                                    <Avatar size="sm" mr={2} src="https://s3-ap-southeast-1.amazonaws.com/cohive-web/press/kits/logos/CoHive+hitam.png" />
                                                     <Flex flexDir="column">
-                                                        <Heading size="sm" letterSpacing="tight">Crypto Nomad</Heading>
+                                                        <Heading size="sm" letterSpacing="tight">CoHive</Heading>
                                                         <Text fontSize="sm" color="gray">Oct 7, 2022 at 9:03am</Text>
                                                     </Flex>
                                                 </Flex>
                                             </Td>
                                             <Td>Housing</Td>
-                                            <Td isNumeric>+$4</Td>
+                                            <Td isNumeric>+$821</Td>
                                             <Td isNumeric><Text fontWeight="bold" display="inline-table">-$112</Text>.00</Td>
                                         </Tr>
                                     </>
