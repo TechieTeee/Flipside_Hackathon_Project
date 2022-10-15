@@ -106,7 +106,7 @@ export default function Dashboard() {
                                 <Link display={["none", "none", "flex", "flex", "flex"]}>
                                     <Icon as={FiBox} fontSize="2xl" /></Link>
                                 <Link _hover={{ textDecor: 'none' }} display={["flex", "flex", "none", "flex", "flex"]}>
-                                    <Text>Axelar Services <a href="https://axelarscan.io/"> </Text>
+                                    <Text>Axelar Services </Text>
                                 </Link>
                             </Flex>
                         </Flex>
