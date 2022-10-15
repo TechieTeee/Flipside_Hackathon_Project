@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d981e93c-e7ae-4567-8ad1-66ea9701d970" name="Changes" comment="Customer Profiles">
-      <change afterPath="$PROJECT_DIR$/public/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/dashboard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_4.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="d981e93c-e7ae-4567-8ad1-66ea9701d970" name="Changes" comment="Customer Profiles Personas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +51,7 @@
       <workItem from="1665818222578" duration="289000" />
       <workItem from="1665818571350" duration="7746000" />
       <workItem from="1665826748223" duration="842000" />
-      <workItem from="1665827919342" duration="807000" />
+      <workItem from="1665827919342" duration="1301000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Landing">
       <created>1665817949349</created>
@@ -162,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665828013465</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Customer Profiles Personas">
+      <created>1665828784181</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665828784181</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +184,7 @@
     <MESSAGE value="Transaction Categories -&gt; Web 3 Companies" />
     <MESSAGE value="Transaction Categories -&gt; Web 3 Companies 2" />
     <MESSAGE value="Customer Profiles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Customer Profiles" />
+    <MESSAGE value="Customer Profiles Personas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Customer Profiles Personas" />
   </component>
 </project>
